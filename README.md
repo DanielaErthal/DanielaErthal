@@ -7,7 +7,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front-end, apaixonada pelo conhecimento.
+    Sou Desenvolvedora Front-end, apaixonada pelo conhecimento.
   </p>
 
 <div align="center">
